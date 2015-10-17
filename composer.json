@@ -1,0 +1,8 @@
+{
+	"name": "livmackintosh/jquery-ui-bootstrap",
+	"description": "A Bootstrap-themed kickstart for jQuery UI widgets (v1.0 alpha).",
+	"type": "library",
+	"keywords": ["jqueryui","bootstrap","widgets"],
+	"homepage": "http://jquery-ui-bootstrap.github.io/jquery-ui-bootstrap/",
+	"license": "MIT"
+}
